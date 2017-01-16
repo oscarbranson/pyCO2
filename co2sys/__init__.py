@@ -7,6 +7,6 @@ import sys
 
 import calculations
 import constants
-
+import fluxes
 
 from calculations import CarbonateSystem as calc_co2_system
